@@ -1,2 +1,2 @@
-# Fashion-Landmark-Detection-Benchmark
-An Experimental Study on Fashion Landmark Detection Benchmark based on Pytorch.
+# Fashion-Landmark-Detection
+An Experimental Study about Fashion Landmark Detection based on Pytorch.
